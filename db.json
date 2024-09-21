@@ -1,0 +1,22 @@
+habits = [
+  {
+    "title": "Morning Jog",
+    "time": "2024-09-21T06:30:00",
+    "isCompleted": true
+  },
+  {
+    "title": "Read a Book",
+    "time": "2024-09-21T10:00:00",
+    "isCompleted": false
+  },
+  {
+    "title": "Work on Flutter Project",
+    "time": "2024-09-21T14:00:00",
+    "isCompleted": true
+  },
+  {
+    "title": "Meditation",
+    "time": "2024-09-21T18:00:00",
+    "isCompleted": false
+  }
+]
