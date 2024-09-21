@@ -1,4 +1,4 @@
-{habits = [
+{habits :[
   {
     "title": "Morning Jog",
     "time": "2024-09-21T06:30:00",
