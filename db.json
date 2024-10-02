@@ -3,70 +3,70 @@
     {
       "id": "01",
       "title": "Morning Run",
-      "icon": 58886,  // Código de 'directions_run'
+      "icon": 58886,  
       "numeroDeVeces": 5,
       "isCompleted": true
     },
     {
       "id": "02",
       "title": "Drink Water",
-      "icon": 58390,  // Código de 'local_drink'
+      "icon": 58390,
       "numeroDeVeces": 8,
       "isCompleted": false
     },
     {
       "id": "03",
       "title": "Read a Book",
-      "icon": 59653,  // Código de 'menu_book'
+      "icon": 59653,  
       "numeroDeVeces": 2,
       "isCompleted": true
     },
     {
       "id": "04",
       "title": "Yoga",
-      "icon": 60087,  // Código de 'self_improvement'
+      "icon": 60087,
       "numeroDeVeces": 4,
       "isCompleted": false
     },
     {
       "id": "05",
       "title": "Cook Healthy Meal",
-      "icon": 58732,  // Código de 'restaurant'
+      "icon": 58732,
       "numeroDeVeces": 3,
       "isCompleted": true
     },
     {
       "id": "06",
       "title": "Write Journal",
-      "icon": 59529,  // Código de 'edit'
+      "icon": 59529,
       "numeroDeVeces": 1,
       "isCompleted": false
     },
     {
       "id": "07",
       "title": "Practice Guitar",
-      "icon": 58372,  // Código de 'music_note'
+      "icon": 58372,  
       "numeroDeVeces": 6,
       "isCompleted": false
     },
     {
       "id": "08",
       "title": "Study Flutter",
-      "icon": 58140,  // Código de 'laptop_mac'
+      "icon": 58140, 
       "numeroDeVeces": 7,
       "isCompleted": true
     },
     {
       "id": "09",
       "title": "Clean Room",
-      "icon": 60029,  // Código de 'cleaning_services'
+      "icon": 60029,  
       "numeroDeVeces": 2,
       "isCompleted": true
     },
     {
       "id": "10",
       "title": "Stretching",
-      "icon": 59691,  // Código de 'accessibility_new'
+      "icon": 59691,  
       "numeroDeVeces": 4,
       "isCompleted": false
     }
