@@ -1,28 +1,74 @@
 {
-  "habits" :[
-  {
-    "id":"01",
-    "title": "Morning Jog",
-    "time": "2024-09-21T06:30:00",
-    "isCompleted": true
-  },
-  {
-    "id":"02",
-    "title": "Read a Book",
-    "time": "2024-09-21T10:00:00",
-    "isCompleted": false
-  },
-  {
-    "id":"03",
-    "title": "Work on Flutter Project",
-    "time": "2024-09-21T14:00:00",
-    "isCompleted": true
-  },
-  {
-    "id":"05",
-    "title": "Meditation",
-    "time": "2024-09-21T18:00:00",
-    "isCompleted": false
-  }
-]
+  "habits": [
+    {
+      "id": "01",
+      "title": "Morning Run",
+      "icon": "directions_run",
+      "numeroDeVeces": 5,
+      "isCompleted": true
+    },
+    {
+      "id": "02",
+      "title": "Drink Water",
+      "icon": "local_drink",
+      "numeroDeVeces": 8,
+      "isCompleted": false
+    },
+    {
+      "id": "03",
+      "title": "Read a Book",
+      "icon": "menu_book",
+      "numeroDeVeces": 2,
+      "isCompleted": true
+    },
+    {
+      "id": "04",
+      "title": "Yoga",
+      "icon": "self_improvement",
+      "numeroDeVeces": 4,
+      "isCompleted": false
+    },
+    {
+      "id": "05",
+      "title": "Cook Healthy Meal",
+      "icon": "restaurant",
+      "numeroDeVeces": 3,
+      "isCompleted": true
+    },
+    {
+      "id": "06",
+      "title": "Write Journal",
+      "icon": "edit",
+      "numeroDeVeces": 1,
+      "isCompleted": false
+    },
+    {
+      "id": "07",
+      "title": "Practice Guitar",
+      "icon": "music_note",
+      "numeroDeVeces": 6,
+      "isCompleted": false
+    },
+    {
+      "id": "08",
+      "title": "Study Flutter",
+      "icon": "laptop_mac",
+      "numeroDeVeces": 7,
+      "isCompleted": true
+    },
+    {
+      "id": "09",
+      "title": "Clean Room",
+      "icon": "cleaning_services",
+      "numeroDeVeces": 2,
+      "isCompleted": true
+    },
+    {
+      "id": "10",
+      "title": "Stretching",
+      "icon": "accessibility_new",
+      "numeroDeVeces": 4,
+      "isCompleted": false
+    }
+  ]
 }
